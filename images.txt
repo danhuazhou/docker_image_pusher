@@ -1,5 +1,7 @@
 nginx
 mysql:5.7
 python:3.13-slim-bullseye
+python:3.11
 bitnami/kubectl:latest
 bitnami/kafka:latest
+
