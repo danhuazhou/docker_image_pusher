@@ -3,5 +3,6 @@ mysql:5.7
 python:3.13-slim-bullseye
 python:3.11
 python:3.12-slim
+python:3.9-slim-buster
 bitnami/kubectl:latest
 
