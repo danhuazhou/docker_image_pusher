@@ -6,4 +6,4 @@ python:3.12-slim
 python:3.11-slim
 python:3.9-slim-buster
 bitnami/kubectl:latest
-
+apache/airflow:3.0.0
