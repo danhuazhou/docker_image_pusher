@@ -7,3 +7,6 @@ python:3.11-slim
 python:3.9-slim-buster
 bitnami/kubectl:latest
 apache/airflow:3.0.0
+redis:8-alpine
+postgres:18-alpine
+weishaw/sub2api:latest
