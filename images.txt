@@ -10,3 +10,4 @@ apache/airflow:3.0.0
 redis:8-alpine
 postgres:18-alpine
 weishaw/sub2api:latest
+golang:1.26-alpine
