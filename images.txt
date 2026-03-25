@@ -11,3 +11,4 @@ redis:8-alpine
 postgres:18-alpine
 weishaw/sub2api:latest
 golang:1.26-alpine
+node:20.20-alpine3.23
