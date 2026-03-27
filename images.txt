@@ -1,1 +1,3 @@
-ghcr.io/openclaw/openclaw:stable
+ghcr.io/openclaw/openclaw:main-slim
+ghcr.io/openclaw/openclaw:main
+ghcr.io/openclaw/openclaw:main-slim-amd64
