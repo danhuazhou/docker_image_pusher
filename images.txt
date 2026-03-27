@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:v2026.3.13
+ghcr.io/openclaw/openclaw:stable
