@@ -1,3 +1,2 @@
-ghcr.io/openclaw/openclaw:main-slim
-ghcr.io/openclaw/openclaw:main
-ghcr.io/openclaw/openclaw:main-slim-amd64
+ghcr.io/openclaw/openclaw:2026.3.28-slim
+ghcr.io/openclaw/openclaw:2026.3.28-slim-amd64
