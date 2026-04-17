@@ -1,4 +1,2 @@
-weishaw/sub2api:latest
-postgres:18-alpine
-redis:8-alpine
-
+ghcr.io/666ghj/bettafish:latest
+postgres:15
