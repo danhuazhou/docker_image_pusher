@@ -1,3 +1,4 @@
-ghcr.io/openclaw/openclaw:2026.4.5-slim
-ghcr.io/openclaw/openclaw:2026.4.5-slim-amd64
-ghcr.io/openclaw/openclaw:2026.4.5-slim-arm64
+weishaw/sub2api:latest
+postgres:18-alpine
+redis:8-alpine
+
