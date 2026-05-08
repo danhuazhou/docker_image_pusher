@@ -1,3 +1,3 @@
-calciumion/new-api:latest
-redis:latest
-postgres:15
+ghcr.io/openclaw/openclaw:2026.5.7-slim
+ghcr.io/openclaw/openclaw:2026.5.7-slim-arm64
+ghcr.io/openclaw/openclaw:2026.5.7-slim-amd64
