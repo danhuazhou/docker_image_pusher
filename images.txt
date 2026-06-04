@@ -1,1 +1,1 @@
-ghcr.io/joeanamier/xhs-downloader
+btpanel/baota:9.0_lts_lnmp
