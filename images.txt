@@ -1,1 +1,1 @@
-nginx:1.12-alpine
+redis:7-alpine
