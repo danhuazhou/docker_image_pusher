@@ -1,1 +1,2 @@
-redis:7-alpine
+postgres:16-alpine
+minio/minio:latest
